@@ -161,7 +161,7 @@ active configuration in the skin block.*/
 /* Turns the display icon container into a circle. */
 .jw-skin-seven .jw-display-icon-container {
     border-radius: 50%;
-    border: 1px solid #333
+    border: 1px solid #fff
 }
 
 /* Styles the timeslider rail */
@@ -248,8 +248,8 @@ active configuration in the skin block.*/
 
 /* This styles the dock icons into a circle. */
 .jw-skin-seven .jw-dock .jw-dock-button {
-    border-radius: 50%;
-    border: 1px solid #333
+    border-radius: 5%;
+    border: 1px solid #fff
 }
 
 /* This styles tooltip for dock text background. */
