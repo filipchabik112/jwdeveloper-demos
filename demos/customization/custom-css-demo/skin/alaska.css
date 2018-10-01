@@ -1,6 +1,7 @@
 /* Sets the height for the horizontal slider container. */
 .jw-skin-seven .jw-slider-horizontal .jw-slider-container {
-    height: .95em
+    height: .95em;
+		background: #ff0000
 }
 
 /* Sets the height for the horizontal slider elements. */
@@ -8,5 +9,6 @@
 .jw-skin-seven .jw-slider-horizontal .jw-buffer,
 .jw-skin-seven .jw-slider-horizontal .jw-progress {
     height: .2em;
-    border-radius: 0
+    border-radius: 0;
+		background: #00ff00
 }
